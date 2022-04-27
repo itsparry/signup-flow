@@ -1,5 +1,5 @@
 # signup-flow
-A simple signup flow but effective signup flow
+A simple signup flow but effective signup flow that uses react native and redux
 <br/>
 <br/>
 examples: 
