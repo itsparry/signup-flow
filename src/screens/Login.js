@@ -10,7 +10,7 @@ const Login = (props) => {
   }
   return (
     <View style={styles.root}>
-    	<Image source={require('../assets/nakaweb.png')} style={styles.logo}/>
+    	<Image source={require('../assets/logo.png')} style={styles.logo}/>
     	<CustomButton
        		onPress={onSubmit}
        		text="begin"
